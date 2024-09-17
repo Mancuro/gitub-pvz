@@ -1,0 +1,10 @@
+div{
+    background-color: blue;
+    width: 1500vh;
+    border-style: solid;
+
+}
+div.title{
+    flex-direction: row;
+    align-items: center;
+}
